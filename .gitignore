@@ -1,0 +1,4 @@
+.ipynb*
+*.py[co]
+.python-version
+
